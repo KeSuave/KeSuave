@@ -1,6 +1,0 @@
-import{d as o,j as e}from"./index-Bx32hr4R.js";const s={layout:"minimal",title:"Que onda!",description:"undefined"};function a(t){const n={a:"a",br:"br",div:"div",h1:"h1",h2:"h2",h3:"h3",header:"header",p:"p",...o(),...t.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.header,{children:e.jsxs(n.h1,{id:"que-onda",children:["Que onda!",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#que-onda",children:e.jsx(n.div,{"data-autolink-icon":!0})})]})}),`
-`,e.jsxs(n.p,{children:["Espero que estés teniendo un excelente día.",e.jsx(n.br,{}),`
-`,"Tambien espero que encuentres util lo que estoy compartiendo aquí o almenos que te entretenga por un rato!"]}),`
-`,e.jsxs(n.h2,{id:"posts",children:["Posts",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#posts",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),`
-`,e.jsxs(n.h3,{id:"katools",children:[e.jsx(n.a,{href:"katools",children:"KaTools"}),e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#katools",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),`
-`,e.jsx(n.p,{children:"Una herramienta CLI que se encarga del codigo repetitivo para proyectos de juegos creados con KAPLAY."})]})}function d(t={}){const{wrapper:n}={...o(),...t.components};return n?e.jsx(n,{...t,children:e.jsx(a,{...t})}):a(t)}export{d as default,s as frontmatter};
